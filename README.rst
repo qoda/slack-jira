@@ -18,3 +18,8 @@ Usage
 =====
 
 ...
+
+Run Tests::
+=========
+
+    $ python -m sljira.tests
